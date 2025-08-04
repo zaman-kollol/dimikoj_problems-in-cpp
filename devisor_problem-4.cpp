@@ -1,4 +1,4 @@
-         /*iput test case
+         /*input test case
                3
                6
                15
